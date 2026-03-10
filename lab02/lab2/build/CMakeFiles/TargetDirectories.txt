@@ -1,0 +1,6 @@
+/Users/jakubstec/studia/emcpp/lab02/lab2/build/CMakeFiles/DynamicContainer.dir
+/Users/jakubstec/studia/emcpp/lab02/lab2/build/CMakeFiles/StaticContainer.dir
+/Users/jakubstec/studia/emcpp/lab02/lab2/build/CMakeFiles/StaticContainer2.dir
+/Users/jakubstec/studia/emcpp/lab02/lab2/build/CMakeFiles/String.dir
+/Users/jakubstec/studia/emcpp/lab02/lab2/build/CMakeFiles/edit_cache.dir
+/Users/jakubstec/studia/emcpp/lab02/lab2/build/CMakeFiles/rebuild_cache.dir
