@@ -4,6 +4,7 @@
 using namespace std;
 
 // Exercise: modify code so that appropriate constructor and operators are called.
+// done!
 class Container : public Box
 {
 public:
@@ -31,7 +32,10 @@ public:
     }
     Container &operator=(Container &&container)
     {
-
+        if (this != &container)
+        {
+            Box::operator=(move(container));
+        }
         if (verbose)
             cout << "Container: move assignment.\n";
         return *this;
